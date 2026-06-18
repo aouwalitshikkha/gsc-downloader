@@ -2,6 +2,8 @@
 
 CLI tools to download Google Search Console data to CSV.
 
+Built on top of [google-searchconsole](https://github.com/joshcarty/google-searchconsole) by Josh Carty.
+
 ## Requirements
 
 - Python 3.8+
