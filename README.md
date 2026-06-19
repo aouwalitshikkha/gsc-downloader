@@ -74,4 +74,8 @@ python page_keywords.py "https://example.com/" "https://example.com/page/" --exa
 
 ## .gitignore
 
-The repo ignores `*.json`, `*.csv`, `*.xlsx` to keep secrets and data files out of version control.
+The repo ignores `*.json`, `*.csv`, `*.xlsx`, `*.html` to keep secrets and data files out of version control.
+
+## CTR Optimization Skill
+
+The `.opencode/skills/ctr-optimization/` folder contains a reusable skill for optimizing meta titles using GSC data. It includes the same scripts (`download_gsc_data.py`, `page_keywords.py`) and a `SKILLS.md` workflow guide for generating data-driven title tag recommendations.
