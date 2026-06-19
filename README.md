@@ -31,6 +31,8 @@ credentials.json         # Auto-generated after first auth
 
 ## Scripts
 
+The scripts are available in the **root folder** and also mirrored in `.opencode/skills/ctr-optimization/resource/` for use with the CTR optimization skill.
+
 ### 1. `download_gsc_data.py` — Download all queries & pages for a site
 
 ```bash
